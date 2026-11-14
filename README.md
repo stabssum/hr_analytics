@@ -34,6 +34,8 @@ Employee retention is a critical challenge for organizations. This project lever
    * Successfully filtered and identified high-risk employees from the test set for targeted HR interventions.
 
 ---
+### Top 10 Most Important Features (XGBoost)
+![Feature Importance](feature_importance.png)
 
 ## 📈 Results & Key Findings
 * **Model Performance:** The XGBoost model effectively classified high-risk retention candidates with optimized thresholding and SMOTE balancing.
