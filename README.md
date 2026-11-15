@@ -41,8 +41,7 @@ Employee retention is a critical challenge for organizations. This project lever
 * **Actionable Output:** Generated a prioritized list of 28 high-risk employees requiring immediate HR engagement.
 
 ---
-### Top 10 Most Important Features (XGBoost)
-![Feature Importance](feature_importance.png)
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository or download the project files.
