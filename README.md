@@ -13,6 +13,8 @@ Employee retention is a critical challenge for organizations. This project lever
 * **Environment:** Jupyter Notebook / Visual Studio Code
 
 ---
+### Top 10 Most Important Features (XGBoost)
+![Feature Importance](feature_importance.png)
 
 ## 📊 Key Steps & Methodology
 
