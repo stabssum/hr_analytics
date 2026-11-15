@@ -14,7 +14,7 @@ Employee retention is a critical challenge for organizations. This project lever
 
 ---
 ### Top 10 Most Important Features (XGBoost)
-![Feature Importance](features.png)
+![Feature Importance](feature_importance.png)
 
 ## 📊 Key Steps & Methodology
 
